@@ -2,21 +2,21 @@
 
 ## Brake System Plausibility Device
 
-![Brake System Plausibility Device 1](path/to/brake_system_1.jpg)
-![Brake System Plausibility Device 2](path/to/brake_system_2.jpg)
-![Brake System Plausibility Device 3](path/to/brake_system_3.jpg)
+![Brake System Plausibility Device 1](picture7.jpg)
+![Brake System Plausibility Device 2](picture8.jpg)
+![Brake System Plausibility Device 3](picture9.jpg)
 
 ## Ready to Drive System
 
-![Ready to Drive System 1](path/to/ready_to_drive_1.jpg)
-![Ready to Drive System 2](path/to/ready_to_drive_2.jpg)
-![Ready to Drive System 3](path/to/ready_to_drive_3.jpg)
+![Ready to Drive System 1](picture4.jpg)
+![Ready to Drive System 2](picture5.jpg)
+![Ready to Drive System 3](picture6.jpg)
 
 ## Pre-charge/Discharge Circuit
 
-![Pre-charge/Discharge Circuit 1](path/to/pre_charge_discharge_1.jpg)
-![Pre-charge/Discharge Circuit 2](path/to/pre_charge_discharge_2.jpg)
-![Pre-charge/Discharge Circuit 3](path/to/pre_charge_discharge_3.jpg)
+![Pre-charge/Discharge Circuit 1](picture1.jpg)
+![Pre-charge/Discharge Circuit 2](picture2.jpg)
+![Pre-charge/Discharge Circuit 3](picture3.jpg)
 
 ## Tractive System Active Light
 
